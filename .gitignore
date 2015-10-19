@@ -1,2 +1,7 @@
 public/bower_components/
-
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.swn
